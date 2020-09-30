@@ -1,3 +1,3 @@
-module "alerting-composite-evaluator" {
+module "hello" {
   source        = "./hello-module"
 }
